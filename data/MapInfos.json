@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Far4World","order":1,"parentId":0,"scrollX":1047.6,"scrollY":537.6},
+{"id":2,"expanded":false,"name":"Soul Society","order":3,"parentId":0,"scrollX":982.8,"scrollY":547.1999999999999},
+{"id":3,"expanded":true,"name":"WORLDMAP","order":4,"parentId":0,"scrollX":1764,"scrollY":1594.2857142857142},
+{"id":4,"expanded":false,"name":"FOREST","order":5,"parentId":3,"scrollX":1636,"scrollY":902},
+{"id":5,"expanded":false,"name":"Maison rouge","order":2,"parentId":1,"scrollX":982.8,"scrollY":547.1999999999999}
+]
