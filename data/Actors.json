@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":7,"characterName":"Monster2","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Voyageur","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":3,"characterName":"Actor3","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Voyageur","nickname":"","note":"","profile":""}
 ]
