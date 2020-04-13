@@ -1,16 +1,9 @@
 [
 null,
-<<<<<<< HEAD
-{"id":1,"expanded":true,"name":"Far4World","order":4,"parentId":6,"scrollX":2741,"scrollY":1789},
-{"id":2,"expanded":false,"name":"Soul Society","order":5,"parentId":6,"scrollX":819,"scrollY":461},
-{"id":3,"expanded":true,"name":"WORLDMAP","order":1,"parentId":0,"scrollX":1825,"scrollY":1493},
-{"id":4,"expanded":false,"name":"FOREST","order":2,"parentId":3,"scrollX":811,"scrollY":453},
-=======
-{"id":1,"expanded":true,"name":"Far4World","order":4,"parentId":6,"scrollX":1216.5,"scrollY":672},
+{"id":1,"expanded":true,"name":"Far4World","order":4,"parentId":6,"scrollX":1390.2857142857142,"scrollY":1280.5714285714284},
 {"id":2,"expanded":false,"name":"Soul Society","order":5,"parentId":6,"scrollX":1404,"scrollY":781.7142857142857},
 {"id":3,"expanded":false,"name":"WORLDMAP","order":1,"parentId":0,"scrollX":2777.142857142857,"scrollY":1553.142857142857},
 {"id":4,"expanded":false,"name":"FOREST","order":2,"parentId":3,"scrollX":1636,"scrollY":902},
->>>>>>> 3f8de5d174a0593c804eb755ca1c09a3aa41b8d6
 {"id":5,"expanded":false,"name":"Maison rouge","order":6,"parentId":6,"scrollX":818,"scrollY":451},
-{"id":6,"expanded":true,"name":"GAME","order":3,"parentId":0,"scrollX":819,"scrollY":461}
+{"id":6,"expanded":true,"name":"GAME","order":3,"parentId":0,"scrollX":2804.5714285714284,"scrollY":1546.2857142857142}
 ]
