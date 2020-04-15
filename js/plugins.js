@@ -5,5 +5,6 @@ var $plugins =
 {"name":"Community_Basic","status":true,"description":"Plugin used to set basic parameters.","parameters":{"cacheLimit":"20","screenWidth":"816","screenHeight":"624","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"off"}},
 {"name":"MadeWithMv","status":false,"description":"Show a Splash Screen \"Made with MV\" and/or a Custom Splash Screen before going to main screen.","parameters":{"Show Made With MV":"true","Made with MV Image":"MadeWithMv","Show Custom Splash":"false","Custom Image":"","Fade Out Time":"120","Fade In Time":"120","Wait Time":"160"}},
 {"name":"YEP_MoveRouteCore","status":true,"description":"v1.04 Expand the number of movement options for the move\nroute events using this plugin.","parameters":{}},
-{"name":"GALV_MessageSoundEffects","status":true,"description":"Play sound effects when during Show Text event commands.","parameters":{"Delay Time":"10","Default Talk SE":"Cursor1,80,150","Default Confirm SE":"Cursor2,80,150","-----------":"","Quick SE 1":"","Quick SE 2":"","Quick SE 3":"","Quick SE 4":""}}
+{"name":"GALV_MessageSoundEffects","status":true,"description":"Play sound effects when during Show Text event commands.","parameters":{"Delay Time":"10","Default Talk SE":"Cursor1,80,150","Default Confirm SE":"Cursor2,80,150","-----------":"","Quick SE 1":"","Quick SE 2":"","Quick SE 3":"","Quick SE 4":""}},
+{"name":"Yami_SkipTitle","status":true,"description":"Skip the title scene for testing purpose.","parameters":{}}
 ];
