@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Morning Wood","order":6,"parentId":6,"scrollX":2472,"scrollY":705.3333333333334},
+{"id":2,"expanded":false,"name":"Soul Society","order":9,"parentId":6,"scrollX":1090.6666666666667,"scrollY":601.3333333333334},
+{"id":3,"expanded":true,"name":"WORLDMAP","order":1,"parentId":0,"scrollX":4377.333333333333,"scrollY":2105.3333333333335},
+{"id":4,"expanded":true,"name":"FOREST","order":2,"parentId":3,"scrollX":3720,"scrollY":2105.3333333333335},
+{"id":5,"expanded":true,"name":"Maison rouge","order":7,"parentId":1,"scrollX":1090.6666666666667,"scrollY":601.3333333333334},
+{"id":6,"expanded":true,"name":"GAME","order":5,"parentId":0,"scrollX":1090.6666666666667,"scrollY":601.3333333333334},
+{"id":7,"expanded":true,"name":"Téléportation","order":10,"parentId":2,"scrollX":1402.2857142857142,"scrollY":773.1428571428571},
+{"id":8,"expanded":false,"name":"Maison Marron","order":8,"parentId":1,"scrollX":1090.6666666666667,"scrollY":601.3333333333334},
+{"id":9,"expanded":false,"name":"MONTAINE","order":3,"parentId":3,"scrollX":3672,"scrollY":2433.3333333333335},
+{"id":10,"expanded":false,"name":"ALL MAP","order":4,"parentId":3,"scrollX":6480,"scrollY":4768},
+{"id":11,"expanded":true,"name":"Linear Quest","order":11,"parentId":0,"scrollX":5624,"scrollY":705.3333333333334},
+{"id":12,"expanded":false,"name":"Distance vue","order":12,"parentId":11,"scrollX":1090.6666666666667,"scrollY":601.3333333333334},
+null,
+{"id":14,"expanded":true,"name":"Maison PNJ","order":13,"parentId":11,"scrollX":1090.6666666666667,"scrollY":601.3333333333334}
+]
